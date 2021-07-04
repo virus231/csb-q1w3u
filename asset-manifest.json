@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://virus231.github.io/csb-q1w3u/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://virus231.github.io/csb-q1w3u/static/js/main.acb3472f.chunk.js",
+    "main.js.map": "https://virus231.github.io/csb-q1w3u/static/js/main.acb3472f.chunk.js.map",
+    "runtime-main.js": "https://virus231.github.io/csb-q1w3u/static/js/runtime-main.7ac455bc.js",
+    "runtime-main.js.map": "https://virus231.github.io/csb-q1w3u/static/js/runtime-main.7ac455bc.js.map",
+    "static/js/2.2874a761.chunk.js": "https://virus231.github.io/csb-q1w3u/static/js/2.2874a761.chunk.js",
+    "static/js/2.2874a761.chunk.js.map": "https://virus231.github.io/csb-q1w3u/static/js/2.2874a761.chunk.js.map",
+    "index.html": "https://virus231.github.io/csb-q1w3u/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://virus231.github.io/csb-q1w3u/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2874a761.chunk.js.LICENSE.txt": "https://virus231.github.io/csb-q1w3u/static/js/2.2874a761.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ac455bc.js",
+    "static/js/2.2874a761.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.acb3472f.chunk.js"
+  ]
+}
